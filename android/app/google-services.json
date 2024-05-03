@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57965479792",
+    "project_id": "minichat-85cea",
+    "storage_bucket": "minichat-85cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57965479792:android:28fd87d823d19d130f31b5",
+        "android_client_info": {
+          "package_name": "com.example.chat_minits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnYAIID2VBhd3fMJAzm_y5Gm5KIO6lwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57965479792:android:564d347b7ad1438f0f31b5",
+        "android_client_info": {
+          "package_name": "com.example.mini_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnYAIID2VBhd3fMJAzm_y5Gm5KIO6lwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
